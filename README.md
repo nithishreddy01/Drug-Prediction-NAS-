@@ -1,0 +1,2 @@
+# Optimizing-Neural-Networks-for-Drug-Response-Prediction-using-Neural-Architecture-Search-NAS-
+Developed an automated deep learning framework to predict patient-specific drug response using Neural Architecture Search (NAS). Implemented Random Search, Q-Learning, and Bayesian Optimization in TensorFlow/Keras to optimize architectures and improve prediction accuracy, evaluated using MSE, MAE, RMSE, and R² metrics.
